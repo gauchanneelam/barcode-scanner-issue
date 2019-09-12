@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4252444864",
+    "firebase_url": "https://mlkit-barcode-scanner-5bd6e.firebaseio.com",
+    "project_id": "mlkit-barcode-scanner-5bd6e",
+    "storage_bucket": "mlkit-barcode-scanner-5bd6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4252444864:android:a68bbd438fc4843fc9e525",
+        "android_client_info": {
+          "package_name": "com.tekkon.Barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4252444864-5cv1ulgcnvcqd5juggkqnl185u7fubbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1dybc9_6OhSQ4i_deKIBAaQUZA_mV2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4252444864-5cv1ulgcnvcqd5juggkqnl185u7fubbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+
+
+<ActionBar class="action">
+    <label text="Back" (tap)="back()"></label>
+</ActionBar>
+<StackLayout>
+
+    <GridLayout >
+        <MLKitBarcodeScanner class="scanner-round" formats="QR_CODE, EAN_13" beepOnScan="true" reportDuplicates="true"
+            preferFrontCamera="false" (scanResult)="onBarcodeScanningResult($event)" [pause]="pause">
+        </MLKitBarcodeScanner>
+        <Label text="Please scan the QR Code" class="point-info" horizontalAlignment="center" verticalAlignment="top">
+        </Label>
+        <stackLayout class="dotted-line"></stackLayout>
+    </GridLayout>
+
+</StackLayout>

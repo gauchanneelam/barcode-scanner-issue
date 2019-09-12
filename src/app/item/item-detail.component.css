@@ -1,0 +1,44 @@
+ActionBar {
+    font-family: Montserrat-Bold;
+    font-size: 16sp
+}
+
+.action {
+    color: white;
+    background-color: #313131
+}
+
+.scanner-round {
+    height: 100%;
+    width: 100%;
+    /* border-radius: 50%; */
+}
+
+
+.dotted-line {
+    border-color: #ffffff;
+    border-width: 1;
+    border-radius: 10;
+    height: 40%;
+    width: 60%;
+    border-style: dashed;
+    opacity: 0.5;
+}
+
+.point-info {
+    font-size: 16sp;
+    color: white;
+    /* font-family: Montserrat-Bold; */
+    /* font-weight: 600; */
+    margin-top: 10%;
+    margin-bottom: 30%;
+}
+
+.text-wrap {
+    color: #ffffff;
+    font-size: 16sp;
+    text-align: center;
+    margin-bottom: 4%;
+    padding: 3%;
+
+}
